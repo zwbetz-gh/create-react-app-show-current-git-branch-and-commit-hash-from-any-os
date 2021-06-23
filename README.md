@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Sister Links
 
-TODO
+- **Article:** <https://zwbetz.com/create-react-app-show-current-git-branch-and-commit-hash-from-any-os/>
 
 ## Run it
 
