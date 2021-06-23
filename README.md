@@ -22,4 +22,4 @@ TODO
 
 ![Screenshot of the app](doc/screenshot.png)
 
-**Note:** The git commit hash in this screenshot will likely be an old one...
+**Note:** The git commit hash in this screenshot will likely be an old one.
