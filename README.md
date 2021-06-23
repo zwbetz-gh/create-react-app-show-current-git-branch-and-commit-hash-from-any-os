@@ -20,4 +20,6 @@ TODO
 
 ## Screenshot
 
-TODO
+![Screenshot of the app](doc/screenshot.png)
+
+**Note:** The commit hash in this screenshot will likely be an old one...
